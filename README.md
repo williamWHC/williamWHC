@@ -28,6 +28,7 @@ William Henrique Cirino
   "Seja bem vindo ao meu repositório GitHub! Aqui fica reunido alguns dos meu projetos realizados, tanto trabalho como estudo, a minha ecolução diária em busca da senioridade e profíciência como programador."
   <g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji>
 </h3>
+
 <!--Mais sobre mim-->
 <details>
 <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
@@ -37,6 +38,10 @@ William Henrique Cirino
 <p>Hoje estou estudando para evoluir minhas habilidades e ser capaz de criar soluções que auxiliem as empresas a venderem mais, atrair mais clientes e fidelizarem clientes, através de sistemas, aplicativos, web sites otimizados com SEO, campanhas e captação de leads. Acredito que a união da tecnologia com o marketing e a arte, cria um sistema diferenciado que proporciona uma experiência rica para os usuários.
 Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão na massa para criar essas soluções para as pessoas e me divertir no processo.</p>
 </details>
+
+<!--Estatistica-->
+<img src="https://camo.githubusercontent.com/b7ccebefdfc1b111b421be57f15dbd1bee33625529c60c24990e8c6c74e3ae52/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d67656f726765616c616e2673686f775f69636f6e733d74727565267468656d653d64726163756c61" alt="Anurag's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=georgealan&amp;show_icons=true&amp;theme=dracula" style="max-width:100%;">
+
 
 
 Trabalho com
