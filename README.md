@@ -39,13 +39,11 @@ William Henrique Cirino
 Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão na massa para criar essas soluções para as pessoas e me divertir no processo.</p>
 </details>
 
-<!--Estatistica-->
-<img src="https://camo.githubusercontent.com/b7ccebefdfc1b111b421be57f15dbd1bee33625529c60c24990e8c6c74e3ae52/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d67656f726765616c616e2673686f775f69636f6e733d74727565267468656d653d64726163756c61" alt="Anurag's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=georgealan&amp;show_icons=true&amp;theme=dracula" style="max-width:100%;">
-
-
-
-Trabalho com
-
+<!--Estatistica Aqui-->
+<h3>
+<g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji>
+"Trabalho com"
+</h3
 
 
 
