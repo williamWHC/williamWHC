@@ -42,7 +42,7 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 <!--Estatistica Aqui-->
 <h3>
 <g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji>
-"Trabalho com"
+Trabalho com
 </h3
 
 
