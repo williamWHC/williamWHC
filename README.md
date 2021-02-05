@@ -23,6 +23,7 @@ William Henrique Cirino
 
 <!--Aqui entra Linkdin / Hotmail ou Gmail/ Instagram/  Youtube / Twitch -->
 
+
 <!--Texto Rapido-->
 <h3>
   "Seja bem vindo ao meu repositório GitHub! Aqui fica reunido alguns dos meu projetos realizados, tanto trabalho como estudo, a minha ecolução diária em busca da senioridade e profíciência como programador."
@@ -40,9 +41,12 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 </details>
 
 <!--Estatistica Aqui-->
+
+
 <h3>
 <g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji>
 Trabalho com
+  <hr>
 </h3
 
 
