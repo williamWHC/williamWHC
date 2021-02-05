@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<h1>
+<g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨&zwj;💻</g-emoji>
 William Henrique Cirino 
+</h1>
+
 <hr>
 
 ⚡ Trabaho com
