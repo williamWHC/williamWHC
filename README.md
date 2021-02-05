@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 -->
 
 
-# William Henrique Cirino :Man_tech
+William Henrique Cirino :Man_tech
 
 ⚡ My Technologies
