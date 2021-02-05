@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 William Henrique Cirino 
 </h1>
 
-<hr>
-
 ⚡ Trabaho com
 
 
