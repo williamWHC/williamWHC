@@ -73,8 +73,23 @@ Estou Interessado
 
 <h3>
 <g-emoji class="g-emoji" alias="bulb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">💡</g-emoji>
-  Dicas de platao
+  Dica de plataformas de estudo
 </h3>
-  
+<p>
+  Você programador que deseja treinar a sua lógica e aperfeiçoar suas habilidades deixo aqui a dica de três sites ótimos para você se desenvolver.
+</p>
+
+<ul>
+  <li>
+    <a href="https://app.codility.com/programmers/" rel="nofollow">Codility</a>
+  </li>
+  <li>
+    <a href="https://www.hackerrank.com/" rel="nofollow">Hackerrank</a>
+  </li>
+  <li>
+    <a href="https://www.urionlinejudge.com.br/judge/en/login" rel="nofollow">URI Online Judge</a>
+  </li>
+</ul> 
+ 
 
   
