@@ -48,8 +48,10 @@ Here are some ideas to get you started:
   Hoje estou estudando para evoluir minhas habilidades e ser capaz de criar soluções que auxiliem as empresas a automatizar seus processos, E atrair mais clientes e fidelizarem clientes, através de sistemas, aplicativos, web sites otimizados com SEO, campanhas e captação de leads. Acredito que a união da tecnologia com o marketing e a arte, cria um sistema diferenciado que proporciona uma experiência rica para os usuários.
 Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão na massa para criar essas soluções para as pessoas e me divertir no processo.
  <!--Estatistica Aqui-->
+ 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=william&show_icons=true&theme=dracula)
 <p>Obs: utilizo a ferramenta da IBM RTC pra fazer o merge dos projetos atuais no trabalho.</p>
+
   </p>
 </details>
 
