@@ -51,7 +51,7 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 </details>
 
 <!--Estatistica Aqui-->
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=william&show_icons=true&theme=dracula)
 
 <h3>
 <g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji>
