@@ -98,6 +98,7 @@ Estou Interessado
 ![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 
+
 </p>
 
 <!--Most Used Languages-->
@@ -126,6 +127,3 @@ Estou Interessado
     <a href="https://www.urionlinejudge.com.br/judge/en/login" rel="nofollow">URI Online Judge</a>
   </li>
 </ul> 
- 
-
-  
