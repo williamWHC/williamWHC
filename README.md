@@ -100,7 +100,8 @@ Estou Interessado
   </h3>
 <!--skill-->
 <p>
-  
+ 
+![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-316AE0?style=flat-square&logo=kubernetes&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-69d7e2?style=flat-square&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
