@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-williamhenriquecirino@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:williamhenriquecirino@gmail.com)](mailto:williamhenriquecirino@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-william-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/williamhenriquecirino/)](https://www.instagram.com/williamhenriquecirino/)
 [![Medium Badge](https://img.shields.io/badge/-william-black?style=flat-square&labelColor=black&logo=medium&logoColor=white&link=https://medium.com/)](https://medium.com/)
-
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me//)](https://t.me//)
 
 <!--Texto Rapido-->
 <h3>
