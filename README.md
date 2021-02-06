@@ -60,17 +60,21 @@ Trabalho com
 </h3>
 <!--skill-->
 
-<h2>
+
   <h3>
 <g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji>
 Estou Interessado
   </h3>
-</h2>
+
 <!--skill-->
 
 <!--Most Used Languages-->
-
 <h2></h2>
+
+<h3>
+<g-emoji class="g-emoji" alias="bulb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">💡</g-emoji>
+  Dicas de platao
+</h3>
   
 
   
