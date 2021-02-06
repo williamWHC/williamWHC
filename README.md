@@ -75,8 +75,7 @@ Trabalho com
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
 ![IBM RTC](https://img.shields.io/badge/-RTC-054ADA?style=flat-square&logo=IBM&logoColor=white)
-
-
+![Microsoft Team](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white)
 
 <h3>
   <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>
