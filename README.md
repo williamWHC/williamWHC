@@ -76,8 +76,7 @@ Trabalho com
 </h3>
 <!--skill-->
 <p>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/af6c48ca31a255c6d4b8ce25515caff2078ac99779b824dd69421536b0d712ac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030373743363f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074266c6f676f436f6c6f723d666666"><img src="https://camo.githubusercontent.com/af6c48ca31a255c6d4b8ce25515caff2078ac99779b824dd69421536b0d712ac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030373743363f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074266c6f676f436f6c6f723d666666" alt="TypeScript" data-canonical-src="https://img.shields.io/badge/-TypeScript-0077C6?style=flat-square&amp;logo=typescript&amp;logoColor=fff" style="max-width:100%;"></a>
-  
+        
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
