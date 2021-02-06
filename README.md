@@ -51,12 +51,12 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 <h3>
 <g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji>
 Trabalho com
-</h3
+</h3>
 
 <h3>
 <g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji>
 Estou Interessado
-</h3
+</h3>
   
 <h2>
 <img src="https://camo.githubusercontent.com/8b43c8a11bc305e58789878965aa5a97b11a1b2f79f72271a8fb1065e46da25f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d67656f726765616c616e266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgealan&amp;layout=compact" style="max-width:100%;">
