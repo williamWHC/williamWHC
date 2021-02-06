@@ -56,7 +56,7 @@ Trabalho com
 
 <h3>
 <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>
-Estudando Atualmente
+   Estudando atualmente
 </h3>
 
 <h3>
