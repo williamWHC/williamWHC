@@ -52,6 +52,7 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 
 <!--Estatistica Aqui-->
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=william&show_icons=true&theme=dracula)
+Obs: utilizo a ferramenta da IBM RTC pra fazer o merge dos projetos atuais no trabalho.
 
 <h3>
 <g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji>
@@ -59,6 +60,7 @@ Trabalho com
 </h3>
 <!--skill-->
 <p>
+  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/8d20a92acfda9b0761d5368895ffca3ca101519e04da6494eb45ba861d72c3cd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d4534324432433f7374796c653d666c61742d737175617265266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/8d20a92acfda9b0761d5368895ffca3ca101519e04da6494eb45ba861d72c3cd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d4534324432433f7374796c653d666c61742d737175617265266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" alt="Java" data-canonical-src="https://img.shields.io/badge/-Java-E42D2C?style=flat-square&amp;logo=java&amp;logoColor=white" style="max-width:100%;"></a>
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)]
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
