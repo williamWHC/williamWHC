@@ -25,6 +25,7 @@ William Henrique Cirino
 [![Linkedin Badge](https://img.shields.io/badge/-William-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-henrique-cirino-451704122/)](https://www.linkedin.com/in/william-henrique-cirino-451704122/)
 [![Gmail Badge](https://img.shields.io/badge/-williamhenriquecirino@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:williamhenriquecirino@gmail.com)](mailto:williamhenriquecirino@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-william-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/williamhenriquecirino/)](https://www.instagram.com/williamhenriquecirino/)
+[![Medium Badge](https://img.shields.io/badge/-william-black?style=flat-square&labelColor=black&logo=medium&logoColor=white&link=https://medium.com/)](https://medium.com/)
 
 
 <!--Texto Rapido-->
