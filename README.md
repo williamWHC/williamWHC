@@ -22,6 +22,8 @@ William Henrique Cirino
 </h2>
 
 <!--Aqui entra Linkdin / Hotmail ou Gmail/ Instagram/  Youtube / Twitch -->
+[![Linkedin Badge](https://img.shields.io/badge/-William-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-henrique-cirino-451704122/)](https://www.linkedin.com/in/william-henrique-cirino-451704122/)
+
 
 <!--Texto Rapido-->
 <h3>
