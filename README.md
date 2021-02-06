@@ -83,14 +83,15 @@ Trabalho com
 <!--skill-->
 <p>
  
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white)    
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-32648D?style=flat-square&logo=postgresql&logoColor=white)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FD602F?style=flat-square&logo=postman&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20Web%20Services-222E3C?style=flat-square&logo=amazon-aws&logoColor=F89500)
+
 </p>
   <h3>
 <g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji>
