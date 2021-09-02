@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 <h1>
 <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨&zwj;💻</g-emoji>
  Bem-Vindo! ao William Henrique C
+ 
 </h1>
-></p>
+
 <!--Aqui entra Linkdin / Hotmail ou Gmail/ Instagram/  Youtube / Twitch -->
 [![Linkedin Badge](https://img.shields.io/badge/-William-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-henrique-cirino-451704122/)](https://www.linkedin.com/in/william-henrique-cirino-451704122/)
 [![Gmail Badge](https://img.shields.io/badge/-williamhenriquecirino@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:williamhenriquecirino@gmail.com)](mailto:williamhenriquecirino@gmail.com)
