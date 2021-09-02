@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 <h1>
 <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨&zwj;💻</g-emoji>
  Bem-Vindo! ao William Henrique Cirino
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=&center=true&width=380&height=45&lines=William+Henrique;Father+%F0%9F%91%A8%E2%80%8D%F0%9F%91%A6;Desenvolvedor+.NET;Software+craftsmanship+%F0%9F%92%8E;Nice+to+meet+you+%F0%9F%98%84)](https://git.io/typing-svg)
 </h1>
 
 <!--Aqui entra Linkdin / Hotmail ou Gmail/ Instagram/  Youtube / Twitch -->
