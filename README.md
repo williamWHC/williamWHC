@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+
 <h1>
 <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨&zwj;💻</g-emoji>
  Bem-Vindo! ao William Henrique Cirino
@@ -21,11 +23,13 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=&center=true&width=380&height=45&lines=William+Henrique;Father+%F0%9F%91%A8%E2%80%8D%F0%9F%91%A6;Desenvolvedor+.NET;Software+craftsmanship+%F0%9F%92%8E;Nice+to+meet+you+%F0%9F%98%84)](https://git.io/typing-svg)
 </h1>
 
-<div align="center">
   <a href="https://app.rocketseat.com.br/me/william-henrique-cirino-1586176053">
     <img src="https://app.rocketseat.com.br/api/rocketid/share?slug=william-henrique-cirino-1586176053&type=card" width="280" alt="William Henrique Cirino 's Rocket ID"/>
   </a>
+ 
 </div>
+
+<hr>
 
 <!--Aqui entra Linkdin / Hotmail ou Gmail/ Instagram/  Youtube / Twitch -->
 [![Linkedin Badge](https://img.shields.io/badge/-William-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-henrique-cirino-451704122/)](https://www.linkedin.com/in/william-henrique-cirino-451704122/)
